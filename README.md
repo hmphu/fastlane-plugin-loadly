@@ -1,6 +1,7 @@
 # Fastlane loadly.io plugin
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-loadly)
+[![Ruby Gem](https://github.com/hmphu/fastlane-plugin-loadly/actions/workflows/gem-push.yml/badge.svg)](https://github.com/hmphu/fastlane-plugin-loadly/actions/workflows/gem-push.yml)
 
 ## Getting Started
 
